@@ -1,0 +1,2 @@
+FFmpeg version: SHA-1: 76d377d0a0a85f79dbe461971014e13b56937c86
+./configure --disable-static --enable-shared --enable-version3 --disable-programs --enable-gnutls --enable-openssl
